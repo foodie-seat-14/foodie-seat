@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: rgb(212, 205, 205);
+}
+.top_screen{
+    margin: 5% 2% 2% 2%;
+    background-color: white;
+}
+.header {
+    overflow: hidden;
+    padding: 5%;
+}
+
+.row {
+    display: flex;
+    padding: 5%;
+}
+
+.lcomponent {
+    flex: 0.50%;
+    padding: 1%;
+}
+
+.rcomponent {
+    flex: 0.50%;
+
+}

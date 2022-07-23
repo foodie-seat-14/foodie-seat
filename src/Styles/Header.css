@@ -1,0 +1,29 @@
+.hed{
+    flex: 100%;
+}
+.hed_left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hed_right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cont_one{
+    font-weight: 500;
+}
+.cont_two{
+    font-weight: 500;
+}
+.cont_three{
+    background-color: rgb(55, 211, 242);
+    font-weight: 500;
+    padding: 0.5rem; 
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.img{
+    width: 5%;
+}

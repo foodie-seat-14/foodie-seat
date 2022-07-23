@@ -1,0 +1,33 @@
+.left_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+}
+
+.left_side {
+    flex: 0.10%;
+    margin: 0px 2px 0px 0px;
+    text-align: center;
+}
+
+.right_side {
+    flex: 0.70%;
+    margin: 0px 0px 0px 80px;
+}
+
+.left_text{
+    width: 50%;
+}
+
+.avengers_pic{
+    width: 80%;
+    height: 40%;
+    border-radius: 10%;
+
+}
+
+.right_text{
+    height:fit-content;
+    width: auto;
+}
